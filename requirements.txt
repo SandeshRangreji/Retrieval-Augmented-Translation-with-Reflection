@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-community
+pydantic
+pandas
+openai
+sacrebleu
+unbabel-comet
+python-dotenv
+sentence-transformers
+faiss-cpu
