@@ -1,0 +1,21 @@
+source_language,target_language,source,reference,translation,bleu_score
+en,pt,I would request you to wait for sometime.,Eu peço que você espere um pouco.,Eu solicitária que você aguardasse por algum tempo.,11.339582221952005
+en,pt,Hi!,"Olá,",Oi!,0.0
+en,pt,Withdrawing using the ALPHANUMERICID tends to be processed more quickly.,Sacando pela ALPHANUMERICID cai mais rapido.,O saque usando o ALPHANUMERICID tende a ser processado mais rapidamente.,4.456882760699063
+en,pt,"Hello, how are you?","Olá, tudo bem?","Olá, como você está?",17.965205598154213
+en,pt,case PHONENUMBER,caso PHONENUMBER,caso NÚMERO DE TELEFONE,15.97357760615681
+en,pt,"To begin with, could you please tell me your name?","Para começar, pode-me indicar o seu nome por favor?","Para começar, você poderia me dizer seu nome?",18.60045401920258
+en,pt,Thank you very much.,Te agradeço mto,Muito obrigado.,0.0
+en,pt,vailable for sell or to play the game online.,disponível para vender ou jogar online.,disponível para venda ou para jogar o jogo online.,13.134549472120794
+en,pt,Or wait and see if there will be any changes.,Ou espero pra ver se vai ter alguma mudança,Ou espere e veja se haverá alguma mudança.,11.339582221952005
+en,pt,"Nice to meet you, NAME-M .","Prazer em conhecê-lo, NAME-M!","Prazer em te conhecer, NAME-M.",18.575057999133602
+en,pt,Everyone I know is also unable to get in.,Todo mundo q eu conheço não está conseguindo,Todos que conheço também não conseguem entrar.,6.567274736060395
+en,pt,You can simply get back to us and we will check it further for you.,Você pode simplesmente entrar em contato conosco e verificaremos mais detalhadamente para você.,Você pode simplesmente nos contatar e nós verificaremos isso mais a fundo para você.,18.207052811092137
+en,pt,NAME-M,NAME-M,NOME-M,0.0
+en,pt,no,nao,não,0.0
+en,pt,and won't change it at all,e não sai de jeito algum,e não vai mudá-lo de forma alguma,14.535768424205482
+en,pt,Hey NAME-M!,"Olá, NAME-M!",Oi NOME-M!,19.716118825581447
+en,pt,I want to know what are you going to do about it,Quero saber o que vocês vão fazer em relação a isso,Eu quero saber o que você vai fazer sobre isso,16.058516370438436
+en,pt,Attachments**,Anexos**,Anexos,13.533528323661276
+en,pt,"Hello Friend, how are you?","oi amigo, tudo bem?","Olá amigo, como você está?",14.535768424205482
+en,pt,Thank you for now,"Desde já, agradeço!",Obrigado por agora,0.0

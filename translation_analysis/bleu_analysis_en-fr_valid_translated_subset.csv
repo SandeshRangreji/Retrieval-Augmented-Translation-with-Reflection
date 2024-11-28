@@ -1,0 +1,23 @@
+source_language,target_language,source,reference,translation,bleu_score
+en,fr,EMAIL,EMAIL,COURRIEL,0.0
+en,fr,NAME-M a messaj indicating a payment that I did not make,NAME-M un messaj indiquant un paimentque jai pas efzctué,NAME-M un message indiquant un paiement que je n'ai pas effectué,11.208466750961147
+en,fr,I can even send you a picture,je peux meme vous envoye une image,Je peux même t'envoyer une image,15.207218222740094
+en,fr,I got hold to boot then release to boot,j'ai eu hold to boot puis release to boot,J'ai réussi à démarrer puis à libérer pour démarrer,4.767707020457095
+en,fr,You're more than welcome.,Tout le plaisir est pour moi !,Vous êtes plus que bienvenu.,0.0
+en,fr,"Hi, there NAME-N.","Bonjour,","Salut, là NOM-N.",10.682175159905848
+en,fr,».,».,La phrase traduite.,15.97357760615681
+en,fr,Thank you so much for being so understanding and setting a prime example of a mature player.,Merci beaucoup d'avoir compris et défini un excellent exemple d' joueur / joueuse mûr.,Merci beaucoup d'être si compréhensif et de donner un excellent exemple d'un joueur mature.,13.834368456410946
+en,fr,I repeat I have disconnection during team clash matches,je repete j'ai des deconnection lors des matchs de clash d'equipe,Je répète que j'ai une déconnexion pendant les matchs de clash en équipe.,11.359354890271161
+en,fr,Please let me know how can I help you?,Puis-je vous être utile ?,Veuillez me faire savoir comment je peux vous aider ?,4.990049701936832
+en,fr,Hey there!,"Bonjour,",Salut là-bas!,0.0
+en,fr,I gave it to you earlier,Je vous l'ai donné tout à l'heure,Je te l'ai donné plus tôt,15.207218222740094
+en,fr,"I love my e-reader, but when it causes me problems like that, I don't want to recommend it to people around me.","j'aime ma liseuse mais lorsqu'elle me cause des problemes comme ca, je n'Ai aucune envie de la conseiller a des personnes de mon  entourage.","J'aime ma liseuse, mais quand elle me cause des problèmes comme ça, je ne veux pas la recommander aux gens autour de moi.",9.043565779655339
+en,fr,Hello I would like to change my phone number,Bonjour j aimerais changer mon numero de telephone,"Bonjour, je voudrais changer mon numéro de téléphone.",9.980099403873663
+en,fr,your message is not displayed,vos message s'affiche pas,votre message n'est pas affiché,12.703318703865365
+en,fr,You were really amazing to talk to.,Vous étiez vraiment incroyable de parler avec.,Tu étais vraiment incroyable à parler.,13.540372457315735
+en,fr,Virtual privacy network.,Réseau virtuel de protection de la vie privée.,Réseau privé virtuel.,6.023021415818187
+en,fr,So for today or tomorrow is that right?,Du coup pour aujourd’hui ou demain c’est bien ça ?,"Donc, pour aujourd'hui ou demain, c'est bien ça ?",18.36028134946796
+en,fr,Hi NAME-M - NAME-M,"Bonjour NAME-M, NAME-M.",Salut NOM-M - NOM-M,0.0
+en,fr,Please contact us back for any in-game queries &amp; visit URL for tips &amp; tricks.,Veuillez nous contacter pour toute question de jeu &amp; visiter URL pour obtenir des astuces &amp; trucs.,Veuillez nous recontacter pour toute question liée au jeu et visiter l'URL pour des conseils et astuces.,12.24299914053352
+en,fr,You are welcome.,Je vous en prie.,De rien.,14.127216461522432
+en,fr,Thank you for contacting PRS-ORG Support.,Merci d'avoir contacté le Support PRS-ORG.,Merci de contacter le support de PRS-ORG.,13.134549472120788
